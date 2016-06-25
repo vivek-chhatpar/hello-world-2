@@ -2,4 +2,4 @@ Dummy file to test GIT workings
 
 #My first message#
 
-<!-- Random Comments 3 -->
+<!-- Random Comments 2 -->
